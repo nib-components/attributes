@@ -1,0 +1,10 @@
+{
+  "name": "@nib-components/attributes",
+  "version": "0.0.1",
+  "description": "Get the attributes of an element as an object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/attributes.git"
+  }
+}
